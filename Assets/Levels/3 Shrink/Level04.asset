@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adec45ebf00b33a4f9a9506563548c1a, type: 3}
+  m_Name: Level04
+  m_EditorClassIdentifier: 
+  stageName: Shrink
+  triangleRotateSpeed: 100
+  no_of_lantern: 4
+  AcquireSparkVFX: {fileID: 3447210287681897020, guid: cc55e0ecd3f2f844980b0682d0367fae,
+    type: 3}
+  lanternBurst: {fileID: 763434035749576190, guid: bc7ff0b934945b5428eaf72f08783bd9,
+    type: 3}
+  AcquireStarVFX: {fileID: 2351247450374310577, guid: 68b6f691e25e5bb45bffcd840f58776d,
+    type: 3}
+  FireBall: {fileID: 8281640945852525855, guid: 14bc71c61bfd6e44498d286b133ca823,
+    type: 3}
+  FireBallSpawnSeconds: 3

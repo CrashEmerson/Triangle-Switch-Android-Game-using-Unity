@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Mainmenu.unity
+    guid: 53457f2d5a9f8504eb8dc51f445a6de8
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Level01.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Level02.unity
+    guid: e16ea7da64c1fc54f9c5e5754b2e6fe0
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Level03.unity
+    guid: a7338d7cd4b6a5c4b8814b924687070b
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Level04.unity
+    guid: 709f2e355db71004d98a810b6bcf399e
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Level05.unity
+    guid: e89bfedcf681d774aab13dc4cb89cb3d
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_Level01.unity
+    guid: 5d0386bc59d984345838b8ce5be7ad94
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_Level02.unity
+    guid: 96f9c8e01a4bf214dae7c0b5df2fc3bd
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_Level03.unity
+    guid: 726ced3754ccd7a48a13ef57b9d2b106
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_Level04.unity
+    guid: 71c1bfb970ac30c4e82071a8b0b73dc5
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_Level05.unity
+    guid: 81f54991d56795a4f812a8a3fa4b8eaf
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_Level01.unity
+    guid: 571bfda6b9697e74c89766c8ce1e60aa
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_Level02.unity
+    guid: 49f462a0d2507e64aac19abd48788c80
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_Level03.unity
+    guid: 8bd1b1ce90df3b8489ccf1a936419d65
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_Level04.unity
+    guid: f3510caeffa5b3b4fa73ec85b00347fe
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_Level05.unity
+    guid: 37cbe2ca48d1d3e43bfcf09c17c7a016
+  - enabled: 1
+    path: Assets/Scenes/4 Time/TIme_Level01.unity
+    guid: ea2c71cafa80f04499ee647f4c078e94
+  - enabled: 1
+    path: Assets/Scenes/4 Time/TIme_Level02.unity
+    guid: afb7311ea2af4274d89dade1f33f3e27
+  - enabled: 1
+    path: Assets/Scenes/4 Time/TIme_Level03.unity
+    guid: 2efdb06ed08fc684ab00b8cebcd4745e
+  - enabled: 1
+    path: Assets/Scenes/4 Time/TIme_Level04.unity
+    guid: 9ebedcd796c900f41bf018e952bf05de
+  - enabled: 1
+    path: Assets/Scenes/4 Time/TIme_Level05.unity
+    guid: e15c2d01b6ed3564cb38653c71344f42
+  - enabled: 1
+    path: Assets/Scenes/EndCredits.unity
+    guid: 55f25037185abb149ab3e691740b620e
+  - enabled: 1
+    path: Assets/Scenes/1 Lantern/Lantern_SelectLevel.unity
+    guid: 6ff7bac1021061e43a6530a4c0b2d7cb
+  - enabled: 1
+    path: Assets/Scenes/2 FireBall/FireBall_SelectLevel.unity
+    guid: b3b74427c3c6e094abe12f561bc881eb
+  - enabled: 1
+    path: Assets/Scenes/3 Shrink/Shrink_SelectLevel.unity
+    guid: fe373fbdee8b1a049b822fcbe9845b11
+  - enabled: 1
+    path: Assets/Scenes/4 Time/Time_SelectLevel.unity
+    guid: a9791c36d200f764abcf632e9de0f481
+  - enabled: 1
+    path: Assets/Scenes/Credits.unity
+    guid: 6510f71d4392eb74ca609561f698a4e1
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: a54f0d472fc5fb649a8441e6b49781eb
+  - enabled: 1
+    path: Assets/Scenes/SelectStage.unity
+    guid: 38623b57c6943f04fbe5667b0ee02653
+  m_configObjects: {}
